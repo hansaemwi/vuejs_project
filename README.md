@@ -1,4 +1,4 @@
-# My vue.js project if following as : 
-### * instagram clone
-### * cryptography algorithm test
-### * 
+# My vue.js project if following as : [*] instagram clone
+[*] Instagram clone
+[*] Cryptography algorithm test
+ 
