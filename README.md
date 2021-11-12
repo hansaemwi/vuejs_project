@@ -1,4 +1,4 @@
 # My vue.js project if following as :
-[*] Instagram clone
-[*] Cryptography algorithm test
+### 1. Instagram clone
+### 2. Cryptography algorithm test
  
